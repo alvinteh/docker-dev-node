@@ -2,7 +2,7 @@ FROM alvinteh/docker-dev-base:latest
 
 MAINTAINER Alvin Teh <i@alvinteh.me>
 
-#Install node.js 6.0.0
+#Install node.js 6.2.0
 ENV NPM_CONFIG_LOGLEVEL info
 ENV NODE_VERSION 6.2.0
 
